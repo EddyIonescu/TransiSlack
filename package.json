@@ -1,0 +1,19 @@
+{
+  "name": "transislack",
+  "version": "1.0.0",
+  "description": "Transibot for Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyIonescu/TransiSlack.git"
+  },
+  "author": "Eddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddyIonescu/TransiSlack/issues"
+  },
+  "homepage": "https://github.com/EddyIonescu/TransiSlack#readme"
+}
